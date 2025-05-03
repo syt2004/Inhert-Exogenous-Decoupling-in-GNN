@@ -1,0 +1,15 @@
+python dcrnn_influenza_10.py
+python dcrnn_influenza_20.py
+python dcrnn_influenza_40.py
+python dygrencoder_influenza_10.py
+python dygrencoder_influenza_20.py
+python dygrencoder_influenza_40.py
+python gclstm_influenza_10.py
+python gclstm_influenza_20.py
+python gclstm_influenza_40.py
+python gcongru_influenza_10.py
+python gcongru_influenza_20.py
+python gcongru_influenza_40.py
+python gconvlstm_influenza_10.py
+python gconvlstm_influenza_20.py
+python gconvlstm_influenza_40.py
