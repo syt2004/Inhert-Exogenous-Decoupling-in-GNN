@@ -8,7 +8,7 @@ IEDGNN (Inherent-Exogenous Decoupled Dynamic Graph Neural Network) is an advance
 
 ## 🏗️ Architecture
 
-![IEDGNN Framework](images/iedgnn_framework.png)
+![IEDGNN Framework](9129b664b9b6a693c5358f983099c47a.png)
 
 The IEDGNN framework consists of three main components:
 
@@ -83,7 +83,7 @@ The model addresses the complex nature of wind power generation by separating:
 
 ### Performance Visualization
 
-![Performance Comparison](images/performance_boxplots.png)
+![Performance Comparison](261eb239377173c4d476aa06f186363d.png)
 
 The boxplots demonstrate IEDGNN's superior performance with:
 - Lower median values across all metrics
